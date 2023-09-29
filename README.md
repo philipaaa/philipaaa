@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @philipaaa
 - 👀 I’m interested in expanding my knowledge and abilities in the software world 🌎
-- 🌱 I’m currently learning computer science
-- 💞️ I’m looking to collaborate on anything and everything!
-- 📫 
+- 🌱 I’m currently undergoing an honours bachelor in computer science
+- I’m looking to collaborate on anything and everything!
